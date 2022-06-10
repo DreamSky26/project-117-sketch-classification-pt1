@@ -1,0 +1,46 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    background-color: rgb(195, 250, 255);
+}
+h1{
+    background-color: rgb(232, 156, 255);
+    color: rgb(59, 255, 248);
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+}
+#sketch_to_be_drawn{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: rgb(195, 0, 255);
+    font-weight: 500;
+}
+.copyright_footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(232, 156, 255);
+  line-height: 3;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
